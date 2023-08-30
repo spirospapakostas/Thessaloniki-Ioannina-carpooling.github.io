@@ -1,0 +1,29 @@
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.middle-container {
+  background-color: #E4F9F5;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.lower-container {
+  background-color: #E4F9F5;
+  position: relative;
+}
+
+.spiros_photo {
+  margin-right: 20px;
+  width: 30%;
+}
+
+.ENG {
+  line-height: 2.5;
+}
+
+.GR {
+  line-height: 1.5;
+}
